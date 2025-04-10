@@ -9,7 +9,7 @@ Collection of the small projects built with HTML5, CSS3 & JavaScript. No framewo
 |   | Name     | Description   | Demo  |
 |---|----------|---------------|-------|
 | 1 | [Quote Generator](/quote-generator/) | Random Quote Generator using the Forismatic API with the ability to share to Twitter. | [Demo](https://aleksvitko.github.io/javascript-projects/quote-generator/) |
-| 2 | [Infinite Scroll](/infinite-scroll/) | Infinite photo viewer using Unsplash API. | [Demo](https://aleksvitko.github.io/javascript-projects/infinite-scroll#demo) |
+| 2 | [Infinite Scroll](/infinite-scroll/) | Infinite photo viewer using Unsplash API. | [Demo](/infinite-scroll#demo) |
 | 3 | [Joke Teller](/joke-teller/) | Text to Voice-Based Joke Teller app. | [Demo](https://aleksvitko.github.io/javascript-projects/joke-teller/) |
 | 4 | [Picture in Picture](/picture-in-picture/) | Web application to capture your screen and cast into Picture in Picture Mode. | [Demo](https://tinawebdev.github.io/javascript-projects/picture-in-picture/) |
 | 5 | [Light/Dark Mode](/light-dark-mode/) | Website example that toggles between light and dark mode. | [Demo](https://tinawebdev.github.io/javascript-projects/light-dark-mode/) |
